@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.superorange.idea.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.superorange.idea.MyBundle
 
 class MyApplicationService {
 
